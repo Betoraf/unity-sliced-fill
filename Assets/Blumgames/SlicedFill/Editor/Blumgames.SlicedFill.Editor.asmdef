@@ -1,0 +1,7 @@
+{
+    "name": "Blumgames.SlicedFill.Editor",
+    "rootNamespace": "Blumgames.UI.Editor",
+    "references": ["Blumgames.SlicedFill", "UnityEngine.UI", "UnityEditor.UI"],
+    "includePlatforms": ["Editor"],
+    "autoReferenced": true
+}

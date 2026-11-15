@@ -1,0 +1,6 @@
+{
+    "name": "Blumgames.SlicedFill",
+    "rootNamespace": "Blumgames.UI",
+    "references": ["UnityEngine.UI"],
+    "autoReferenced": true
+}

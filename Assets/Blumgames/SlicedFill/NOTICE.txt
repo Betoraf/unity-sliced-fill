@@ -1,0 +1,6 @@
+Sliced Fill 1.0.1
+Created by blumgames
+Copyright (c) 2026 blumgames
+
+Code and sample are distributed under the MIT License. See LICENSE.txt.
+No game assets or third-party artwork are included.
